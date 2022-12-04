@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:Lab3-CISC-3140}/sqlite/squirrel.db",
+            "name": "cesar"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
